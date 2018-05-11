@@ -1,5 +1,5 @@
 <?php 
 
-print "chau mundo"
+print "Hola mundo"
 
 ?>
